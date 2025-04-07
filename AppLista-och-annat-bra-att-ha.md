@@ -4,11 +4,13 @@ Gratis program som streamlinar Windows, installation av diverse appar, drivrunti
 
 *[WinUtil](https://christitustech.github.io/winutil/)*
 
-Startas via PowerShell med hjälp av winutil.ps1 som går att hämta på ovan hemsida, eller direkt via PowerShell (i Adminläge) med kommandot:
+Kan startas utan att ladda ner något via ovan länk -> Öppna PowerShell i adminläge och ange nedan commando, vilket kallar på en funktion from hemsidan och öppnar ett nytt interface med massa olika valmöjligheter. Inget kommer installeras eller modifieras på systemet utan att man säger till programmet som öppnas. Se bild under.
 
 ```PowerShell
 irm christitus.com/win | iex
 ```
+Nedre fönstret är det PowerShell ändras till efter man skriver in kommandot. Det övre är interface som kommandot hämtar.
+![07_20-53-57](https://github.com/user-attachments/assets/6f44d4e7-3ea9-4745-a94d-c4cad4ef14f8)
 
 ett enkelt och användarvänligt GUI öppnas
 
