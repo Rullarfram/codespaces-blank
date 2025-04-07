@@ -4,7 +4,7 @@ Gratis program som streamlinar Windows, installation av diverse appar, drivrunti
 
 *[WinUtil](https://christitustech.github.io/winutil/)*
 
-Kan startas utan att ladda ner något via ovan länk -> Öppna PowerShell i adminläge och ange nedan commando, vilket kallar på en funktion from hemsidan och öppnar ett nytt interface med massa olika valmöjligheter. Inget kommer installeras eller modifieras på systemet utan att man säger till programmet som öppnas. Se bild under.
+Kan startas utan att ladda ner något via ovan länk -> Öppna PowerShell i adminläge och ange nedan commando, vilket kallar på en funktion from hemsidan och öppnar ett nytt interface med massa olika valmöjligheter. Inget kommer **installeras eller modifieras på systemet** utan att man säger till programmet som öppnas. Se bild under.
 
 ```PowerShell
 irm christitus.com/win | iex
@@ -12,13 +12,18 @@ irm christitus.com/win | iex
 Nedre fönstret är det PowerShell ändras till efter man skriver in kommandot. Det övre är interface som kommandot hämtar.
 ![07_20-53-57](https://github.com/user-attachments/assets/6f44d4e7-3ea9-4745-a94d-c4cad4ef14f8)
 
-ett enkelt och användarvänligt GUI öppnas
+Kan vara lite överväldigande i början. Men apparna som visas om man på ovan bild trycker på t.ex. [+] Browsers kommer visa en mängd program. Med mouse over på ikon visas en enkel förklaring vad programmet gör. Se nedan.
 
-kan vara överväldigande i början, men en förklarande text för alla val visas vid mouse over
+![07_21-00-13](https://github.com/user-attachments/assets/4d738c3e-2785-4e2c-b22d-1bab51853f4c)
 
-alla val har dessutom ett frågetecken man kan trycka på för att hänvisas direkt till hemsidan för respektive app eller förklaring av funktion.
+Alla program som finns listade är gratis/open-source, eller har en gratis version som är bra nog för att komma med i listan.
 
-### Samtliga appar i nedan lista kan installeras via WinUtil och är open source / gratis
+Trycker man på **Tweaks** högst visas alternativen på bilden nedan. Mouseover visar en länk, och om man trycker på frågetecknet öppnas en förlaring i webläsaren om vad just den funktionen gör. Finns även de 4 olika valen vid "Recommended selection:". Trycker man på en av dem som förväljs alternativ som finns på bilden nedan med avseende på vilken av de 4 man väljer. Kan sedan modifiera valen. När man väl trycker på **Run Tweaks** så utförs modifieringarna, vilket kommer synas i PowerShell-fänstret.
+
+![07_21-03-13](https://github.com/user-attachments/assets/4d33cf87-1187-4297-99d0-4f22567cced3)
+
+
+### Samtliga appar i nedan lista kan installeras via WinUtil
 
 Appar med [§] brevid sig har jag personligen använt mig av, appar utan [§] är appar från WinUtil som såg intressanta ut men ännu ej provat. 
 
