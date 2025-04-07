@@ -18,7 +18,7 @@ alla val har dessutom ett frågetecken man kan trycka på för att hänvisas dir
 
 ### Samtliga appar i nedan lista kan installeras via WinUtil och är open source / gratis
 
-Appar med [*] sig har jag använt mig av, appar utan [*] är appar som såg intressanta ut men ännu ej provat. 
+Appar med [(*)] sig har jag använt mig av, appar utan [(*)] är appar som såg intressanta ut men ännu ej provat. 
 
 Noterat liten förklaring vid varje app. De jag själv använder/har använt mig av (de med *) är mina uppfattning och förklaring av appens funktioner. Förklaringar för ej testade appar kommer till största del från WinUtil
 
