@@ -42,16 +42,16 @@ Webläsare skapad med fokus på integritet - finns öven som sökmotor [Duck Duc
 ---
 
 **Docker Desktop[§]**
-Virtual environment - Kan användas 
+Virtual environment - Kan användas för t.ex. Linux, Windows 10 eller om man vill ha ett virtuellt OS för att testa program eller annat man inte vill installera lokalt för att slippa rester när programmet avinstallers. T.ex. tillverkares utility program; MSI Center, Razer Synapse, Corsair iQUE osv. De innehåller så sjukt mycket onödigt och orelevant men kan ibland vara krav för att uppdatera firmware på hårdvara och liknande. Personligen installerar jag sådana saker på annat OS. Ett exempel är de flesta möss med programerbara knappar. Samtliga jag använt har funktion att spara profiler i musens internminne, vilket gör att man inte behöver ha programmet igång i bakgrunden för att det ska funka.
 
 **Git[§]**
 Terminal
 
 **Python3[§]**
-Kodningsspråk
+Kodningsspråk som är ett av de vanligare för att göra script med automatisering.
 
-**VS Code[§]**
-Enkelt program för kodning
+**VS Code[§]** (Microsoft Visual Code)
+Enkelt program för kodning.
 
 ---
 
@@ -66,7 +66,7 @@ Enkel memorering av info med hjälp av flashcards som visas med "intelligent spa
 skriv, rita, planera - funktion för synkronisering mellan olika enheter
 
 **LibreOffice[§]**
-har allt som Microsoft Office-paketen har, men med fler funktioner, brantare inlärningskurva för mer avancerade funktioner
+Har allt som Microsoft Office-paketen har, men med fler funktioner, brantare inlärningskurva för mer avancerade funktioner
 skiljer sig något frrån office vad gäller keybinds och t.ex. motsv. funktioner i excel osv. Om något är oklart är ChatGPT suveränt 
 
 **ONLYOffice Desktop**
@@ -109,23 +109,18 @@ Visar vilka program som är inställda att start vid boot. Visara även massvis 
 Krav för vissa applikationer - brukar ofta promta om att installera relevant version av .NET vid installation av programvara hur som
 
 **Chocolatey[§]**
-
 Program för installation av programvara via terminal
 
 **NuGet[§]**
-
 Package manager via terminal - krävs för installation av vissa program som installeras via terminal
 
 **Power Automate[§]**
-
 Automatisera arbetsflöden. Möjilgheterna är egentligen oändliga. Men har själv bara gjort flöden för att öppna ett flertal appar samtidigt. T.ex. curseforge+weakauras+warcraftlogs+battlenet när man ska lira wow. Trycker på en knapp så startar alla appar upp. Har även gjort flöde som öppnar ett flertal hemsidor samtidigt.
 
 **PowerToys[§]**
-
 Diverse utilities. De flesta är i grunden utvecklade standard Windows-funktioner. Ett måste-ha-program. Används både privat och på jobb. Skulle kunna skriva ett helt dokument om dess funktioner och hur förbannat bra de är. Rekomenderar att kolla genom de funktioner som finns och börja med att aktivera 3-4st av dem för att sedan aktivera fler man tror sig ha nytta av. Själv använder jag aktivt 12st som alltid är på. Utöver de använder jag 4-5st till som jag aktiverar vid behov.
 
 **SysInternals ProcessMonitor[§]**
-
 Microsoftprogram för analys av samtliga processer. Överväldigande och komplicerat till en början. Kan användas för att kolla vad vissa program kör för funktioner.
 
 -----------------------------------------------------------------------
